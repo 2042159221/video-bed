@@ -1,0 +1,2 @@
+# video-bed
+collect video
